@@ -1,0 +1,13 @@
+C:\Users\Usuario1\Documents\logica\bin\Debug\netcoreapp3.1\logica.deps.json
+C:\Users\Usuario1\Documents\logica\bin\Debug\netcoreapp3.1\logica.runtimeconfig.json
+C:\Users\Usuario1\Documents\logica\bin\Debug\netcoreapp3.1\logica.runtimeconfig.dev.json
+C:\Users\Usuario1\Documents\logica\bin\Debug\netcoreapp3.1\logica.dll
+C:\Users\Usuario1\Documents\logica\bin\Debug\netcoreapp3.1\logica.pdb
+C:\Users\Usuario1\Documents\logica\obj\Debug\netcoreapp3.1\logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario1\Documents\logica\obj\Debug\netcoreapp3.1\logica.AssemblyInfoInputs.cache
+C:\Users\Usuario1\Documents\logica\obj\Debug\netcoreapp3.1\logica.AssemblyInfo.cs
+C:\Users\Usuario1\Documents\logica\obj\Debug\netcoreapp3.1\logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Documents\logica\obj\Debug\netcoreapp3.1\logica.dll
+C:\Users\Usuario1\Documents\logica\obj\Debug\netcoreapp3.1\logica.pdb
+C:\Users\Usuario1\Documents\logica\obj\Debug\netcoreapp3.1\logica.genruntimeconfig.cache
+C:\Users\Usuario1\Documents\logica\obj\Debug\netcoreapp3.1\logica.csproj.AssemblyReference.cache
